@@ -11,7 +11,7 @@ I print this model for her, the model is put on the wrist, and with the thinness
 
 
 
-###  <span style="color:red">Project 2 - pages turner for als patient</span>
+###  <span style="color:red">Project 2 - Mosquito Slaughterhouse </span>
 
 ![Project Image](https://github.com/NirAharon1/3D-printing-projects/blob/main/mosquito%20slaughterhouse/explo.PNG)
  
